@@ -7,4 +7,4 @@ For Demo
 
 First create a account on https://replit.com/ and then copy paste the link given below
 
-https://replit.com/@MayankMalhotra3/BlackJack#main.py
+https://replit.com/@MayankMalhotra3/BlackJack
